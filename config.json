@@ -1,0 +1,19 @@
+{
+    "cookie": "",
+    "base_url": "https://inquiry.ecust.edu.cn",
+    "interval": 2,
+    "max_retries": 3,
+    "courses": [
+        {
+            "name": "",
+            "kcxx": "",
+            "jx0404id": "",
+            "kcid": "",
+            "enabled": true
+        }
+    ],
+    "notification": {
+        "sound": true,
+        "duration": 1000
+    }
+}
